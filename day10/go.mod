@@ -1,0 +1,5 @@
+module github.com/jerinthomas1404/aoc/day10
+
+go 1.25.3
+
+require github.com/aclements/go-z3 v0.0.0-20220809013456-4675d5f90ca5
